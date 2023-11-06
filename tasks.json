@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Test my todo app",
+        "state": "canceled",
+        "date": "2023-11-02"
+    },
+    {
+        "text": "another task",
+        "state": "canceled",
+        "date": "2023-11-02"
+    },
+    {
+        "text": "test",
+        "state": "canceled",
+        "date": "2023-11-02"
+    },
+    {
+        "text": "a new task",
+        "state": "pending",
+        "date": "2023-11-02"
+    },
+    {
+        "text": "abcdef",
+        "state": "done",
+        "date": "2023-11-02"
+    },
+    {
+        "text": "aaa",
+        "state": "done",
+        "date": "2023-11-02"
+    },
+    {
+        "text": "te",
+        "state": "pending",
+        "date": "2023-11-02"
+    }
+]
