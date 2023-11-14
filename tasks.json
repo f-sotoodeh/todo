@@ -1,37 +1,27 @@
 [
     {
-        "text": "Test my todo app",
-        "state": "canceled",
-        "date": "2023-11-02"
-    },
-    {
-        "text": "another task",
-        "state": "canceled",
-        "date": "2023-11-02"
-    },
-    {
-        "text": "test",
-        "state": "canceled",
-        "date": "2023-11-02"
-    },
-    {
         "text": "a new task",
-        "state": "pending",
-        "date": "2023-11-02"
+        "state": "postponed",
+        "date": "2023-11-15"
     },
     {
-        "text": "abcdef",
+        "text": "aaabbb",
         "state": "done",
-        "date": "2023-11-02"
+        "date": "2023-11-14"
     },
     {
-        "text": "aaa",
-        "state": "done",
-        "date": "2023-11-02"
+        "text": "test 2",
+        "state": "postponed",
+        "date": "2023-11-15"
     },
     {
-        "text": "te",
+        "text": "test 3",
         "state": "pending",
-        "date": "2023-11-02"
+        "date": "2023-11-14"
+    },
+    {
+        "text": "Untitled task!",
+        "state": "canceled",
+        "date": "2023-11-14"
     }
 ]
